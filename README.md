@@ -26,3 +26,14 @@ This project helped me gain practical experience in:
 - Creating calculated fields to derive new insights from raw data.
 - Designing interactive and user-friendly dashboards.
 - Applying data analytics skills to a real-world business problem.
+### Final Dashboard View
+
+Here's a look at the completed dashboard:
+
+![Dashboard Screenshot](your_dashboard_screenshot.png)
+
+### Interactive Filtering
+
+This GIF shows how you can use the factory filter to analyze downtime for specific devices:
+
+![Filter Demo](your_filter_demo.gif)
